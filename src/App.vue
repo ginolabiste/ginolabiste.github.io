@@ -35,4 +35,7 @@
     padding: auto;
     display: grid;
   }
+  .col:last-child{
+    margin-top: 10px;
+  }
 </style>
